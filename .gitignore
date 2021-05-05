@@ -1,3 +1,10 @@
+# Data
+*.csv
+
+# Folders
+.build/
+.vscode/
+
 # Prerequisites
 *.d
 
